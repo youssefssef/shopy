@@ -13,7 +13,7 @@
 
    ```bash
 
-   git clone https://github.com/votre-utilisateur/shopy.git
+   git clone https://github.com/youssefssef/shopy.git
 
 2. Installer les dépendances : 
 
